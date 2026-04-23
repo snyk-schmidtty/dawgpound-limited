@@ -10,7 +10,8 @@
   "dependencies": {
     "qs": "6.2.4",
     "node-uuid": "1.4.0",
-    "express": "4.18.2"
+    "express": "4.18.2",
+    "coffescript": "0.0.1-security"
   }
 }
 
